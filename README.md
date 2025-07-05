@@ -21,8 +21,8 @@ A modern, responsive **Calculator Web App** built using **HTML, CSS, and JavaScr
 
 ## 🔗 Live Demo
 
-👉 [Click to View Live](https://your-username.github.io/calculator-app/)  
-*(Replace with your actual GitHub Pages link)*
+👉 [Click to View Live](https://mustafa-codess.github.io/Basic_Calculator/)  
+
 
 ---
 
